@@ -34,8 +34,8 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/HoshinoDesu/bilibili-monitor.git
-cd bilibili-monitor
+git clone https://github.com/INT-Gunbot/bilidata-monitor.git
+cd bilidata-monitor
 ```
 
 2. **创建虚拟环境**
